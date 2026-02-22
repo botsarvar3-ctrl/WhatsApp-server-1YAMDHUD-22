@@ -18,6 +18,5 @@
     "start": "node index.js"
   },
   "engines": {
-    "node": "16.x"
+  "node": ">=18"
   }
-}
